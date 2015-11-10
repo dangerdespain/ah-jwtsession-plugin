@@ -1,0 +1,42 @@
+{
+  "author": {
+    "name": "Devin Despain",
+    "email": "devin@dspa.in"
+  },
+  "name": "ah-jwtsession-plugin",
+  "description": "I provide extensible jwt session support (+ auth endpoint!) for ActionHero",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dangerdespain/ah-jwtsession-plugin",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/ah-jwtsession-plugin.git"
+  },
+  "keywords": [
+    "actionhero",
+    "ah",
+    "session",
+    "jwt",
+    "user",
+    "utility",
+    "utilities"
+  ],
+  "engines": {
+    "node": ">=0.8.0"
+  },
+  "dependencies": {
+    "jsonwebtoken": "*"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "bugs": {
+    "url": "https://github.com/dangerdespain/ah-jwtsession-plugin/issues"
+  },
+  "maintainers": [
+    {
+      "name": "dangerdespain",
+      "email": "devin@dspa.in"
+    }
+  ],
+  "directories": {},
+  "readme": "ERROR: No README data found!"
+}
